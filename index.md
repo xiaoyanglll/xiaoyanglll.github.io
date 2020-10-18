@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8"/>
     <title>导读天地</title>
-    <link href="styles/text.css" rel="stylesheet" type="text/css"/>
+    <style>
+body {background-color:white}
+p {color:blue}
+h1 {color:purple}
+  </style>
   </head>
   <body>
     <h1>“名著导读”</h1>
