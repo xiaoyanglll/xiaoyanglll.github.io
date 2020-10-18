@@ -72,8 +72,8 @@
       <img src="https://pic.baike.soso.com/ugc/baikepic2/0/20170708035326-154155101.jpg/800"/>
       <img src="https://pic.baike.soso.com/ugc/baikepic2/0/20160917093828-59008701.jpg/800"/>
       <img src="https://pic.baike.soso.com/ugc/baikepic2/0/20160917163927-382414661.jpg/800"/>
-      <img src="https://pic.baike.soso.com/ugc/baikepic2/0/20160914150956-553954193.jpg/800"/>
       <img src="https://pic.baike.soso.com/ugc/baikepic2/0/20160915075105-1817380361.jpg/800"/>
+      <img src="https://pic.baike.soso.com/ugc/baikepic2/0/20160914150956-553954193.jpg/800"/>
     <h2>精彩情节</h2>
   
   </body>
