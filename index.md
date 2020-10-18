@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>导读天地</title>
-    <style type=""text/css>
+    <style type="text/css">
 body {background-color:white}
 p {color:blue}
 h1 {color:purple}
