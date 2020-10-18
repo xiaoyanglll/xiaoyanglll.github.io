@@ -2,7 +2,7 @@
 <html lang="zh-cn">    
   <head>
     <meta charset="utf-8"/>
-    <title>Mine World</title>
+    <title>导读天地</title>
   </head>
   <body>
     <h1>“名著导读”</h1>
