@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>导读天地</title>
-    <link href="styles/test.css" rel="stylesheet" type="text/css"/>
+    <link href="xiaoyanglll.github.io/styles/test.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
     <h1>“名著导读”</h1>
