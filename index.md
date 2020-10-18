@@ -51,7 +51,7 @@
   <body>
     <div>
     <p>看完这些精彩片段，你们是不是迫切地想看看原著了呢？那就赶快点击下方书名开始你们的阅读吧！</p>
-    <a href="https://www.huaidan1234.com/jidushanbojue/">基督山伯爵全文阅读</a>
+    <a href="https://www.cz2che.com/1/1156/62520.html">基督山伯爵全文阅读</a>
     <img src="https://www.huaidan1234.com/d/file/b37dc3a0369f3e0d204d73a46f600753.jpg"/>
     </div>
   </body>
@@ -130,4 +130,5 @@
       <img src="https://p5.manhuapan.com/2013/03/1712333250.jpg"/>
       <img src="https://p5.manhuapan.com/2013/03/1712333251.jpg"/>
     </body>
+    <p>看完之后，你们是不是迫不及待地想看看后续情节了呢？</p>
   </body>
