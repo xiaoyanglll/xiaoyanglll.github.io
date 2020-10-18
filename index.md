@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <title>导读天地</title>
     <style type="text/css">
-body {background-color:reseda}
+body {background-color:green}
 p {color:blue}
 h1 {color:purple}
   </style>
